@@ -1,0 +1,17 @@
+1. What happens when you initialize a repository? Why do you need to
+do it?
+
+   A .git directory (and perhaps some subdirectories) are
+   created. Then some files to store metadata related to commits,
+   branches, and so on are created, although they are likely to  be
+   empty. 
+
+
+2. How is the staging area different from the working directory and
+the repository? What value do you think it offers?
+
+   It lets you add files one by one to be tracked, but still commit
+   them as a group. It also lets you change your mind before
+   committing. 
+
+
