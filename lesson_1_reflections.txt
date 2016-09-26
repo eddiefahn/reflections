@@ -1,0 +1,52 @@
+1. How did viewing a diff between two versions help you spot the bug?
+
+   It highlighted the lines with differences between the two
+   versions. The bug must have been in one of those lines that had
+   changed.
+
+2. How could having easy access to the entire history of a file make
+you a more efficient programmer in the long term?
+
+   I could easily access the point of introduction of each line of
+   code. I could also easily run past versions to determine exactly
+   when a bug was introduced.
+
+3. what do you think are the pros and cons of manually choosing when
+to create a commit, like you do in Git, vs having versions
+automatically saved, like Google Docs does? 
+
+   Manual commits allow you to select points that make logical sense,
+   such as upon completion of a new feature or bug fix. On the other
+   hand, it may be risky if the programmer gets caught up in the
+   programming and forgets to commit frequentyl enough.
+
+4. Why do you think some version control systems, like Git, allow
+saving multiple files in one commit, while others, like Google Docs,
+treat each file separately?
+
+   Some systems, such as Google Docs, are oriented to single
+   files. But programming-oriented systems, such as Git, are for
+   software, where it is common for one project to include multiple
+   files.
+
+5. How can you use the commands git log and git diff to view the
+history of files?
+
+   diff log will list all the commits in reverse chronological order,
+   with a descriptive message for each one, mentioning what was
+   changed. Then git diff, with two consecutive commit id's as
+   parameters, will show the exact changes made.
+
+6. How might using version control make you more confident to make
+changes that could break something?
+
+   Version control makes it easy to go back to a previous version in
+   case a change introduces a bug or other problem.
+
+7. Now that you have your workspace set up, what do you want to try
+using Git for? 
+
+  I want write some test programs in Solidity, and maybe some
+  accompanying javascript.
+
+
