@@ -14,4 +14,11 @@ the repository? What value do you think it offers?
    them as a group. It also lets you change your mind before
    committing. 
 
+3. How can you use the staging area to make sure you have one commit
+per logical change? 
+
+   Use the command "git diff --staged" before commiting, to review the
+   changes that are about to be committed. Check that only one logical
+   change is reported in the output to the "git diff --staged"
+   command. 
 
