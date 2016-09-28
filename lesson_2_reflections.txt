@@ -22,3 +22,9 @@ per logical change?
    change is reported in the output to the "git diff --staged"
    command. 
 
+4. What are some situations when branches would be helpful in keeping
+your history organized? 
+
+   You might want to work on two versions at once, with different
+   features, levels, languages. One could be experimenting with
+   something new, while continuing to develop the main branch.
