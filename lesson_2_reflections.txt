@@ -28,3 +28,11 @@ your history organized?
    You might want to work on two versions at once, with different
    features, levels, languages. One could be experimenting with
    something new, while continuing to develop the main branch.
+
+5. How do the diagrams help you visualize the branch structure? 
+
+   They help explain how certain commits can be reachable or
+   unreachable. They are also important to visualize the relations
+   between the various active branches. 
+
+
