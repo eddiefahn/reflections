@@ -35,4 +35,11 @@ your history organized?
    unreachable. They are also important to visualize the relations
    between the various active branches. 
 
+6. What is the result of merging two branches together? Why do we
+represent it in the diagram the way we do? 
+
+   Merging creates a new version (new commit) that includes the
+   changes on both branches. In the diagram, the two branches are
+   joined into a new node. That new node has ends of both branches as
+   parents. 
 
