@@ -43,3 +43,12 @@ represent it in the diagram the way we do?
    joined into a new node. That new node has ends of both branches as
    parents. 
 
+7. What are the pros and cons of Git's automatic merging vs. always
+doing merges manually? 
+
+   Git's automatic merging will save a lot of time and manual effort,
+   since there are many cases where it will know to do the correct
+   thing. There would be trouble, however, if Git "automtically" did
+   the wrong thing, and we would discover trouble later, or spend time
+   manually undoing Git's merge.
+
