@@ -1,0 +1,6 @@
+1. When would you want to use a remote repository rather than keeping all your work local?
+
+   This would make sense when I am part of a team where all members are making changes to
+   the project on github. It would also make sense if I were working on the project from 
+   multiple devices.
+   
