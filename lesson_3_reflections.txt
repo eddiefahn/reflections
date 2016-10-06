@@ -13,3 +13,14 @@ Git automatically stay up-to-date with your remote repository?
    could be working on the project and have the files changed
    automatically and unpredictably during your in-progress work.
 
+3. Describe the differences between forks, clones, and branches. When
+would you use one instead of another? 
+
+   A fork makes a copy of a repository on github that you can
+   control. Both the original and the copy are on github. A clone
+   downloads a copy of a github repository to your local machine,
+   allowing you to edit the files locally. A branch, whether local or
+   remote, is a new version with a new feature or other change that
+   you are working on. 
+
+
